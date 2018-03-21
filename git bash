@@ -1,0 +1,47 @@
+[33mcommit 06fb2c03af9268f8f33a9f4c95da7c25be82e55b[m
+Author: C. Viktor <vchekryzhov@ya.ru>
+Date:   Tue Mar 13 12:31:19 2018 +0300
+
+    style
+
+[33mcommit b36f823de21c224ae1671337bd248d0991cdca43[m
+Author: C. Viktor <vchekryzhov@ya.ru>
+Date:   Tue Mar 13 11:52:16 2018 +0300
+
+    Изменены условия принятия
+
+[33mcommit 43a524c395756ea7df34a3645fd149773da325b4[m
+Author: VIktor <vchekryzhov@ya.ru>
+Date:   Tue Mar 13 13:22:29 2018 +0400
+
+    Изменен порядок подключения
+
+[33mcommit 95f0d7e0811bcf3ecd18e4551414e8330d2f773c[m
+Author: VIktor <vchekryzhov@ya.ru>
+Date:   Tue Mar 13 13:21:22 2018 +0400
+
+    fix
+
+[33mcommit beb24f5039fa950305ef05ee859e75f54ac5bdea[m
+Author: VIktor <vchekryzhov@ya.ru>
+Date:   Tue Mar 13 13:04:39 2018 +0400
+
+    подключение materialize к странице и вынесения скиптов во внешний файл
+
+[33mcommit 18d60b9231c7bfce6186612bfd87f266f485018f[m
+Author: VIktor <vchekryzhov@ya.ru>
+Date:   Tue Mar 13 12:36:54 2018 +0400
+
+    Подключена библиотека materialize
+
+[33mcommit 4597c6e85e110e9f97f7b6391c4ccf855e38cdf1[m
+Author: C. Viktor <vchekryzhov@ya.ru>
+Date:   Sun Feb 25 15:14:03 2018 +0300
+
+    hr
+
+[33mcommit a88146d2cf17663272cf9f01fd22243b57f6cd0b[m
+Author: C. Viktor <vchekryzhov@ya.ru>
+Date:   Sun Feb 25 15:12:10 2018 +0300
+
+    first commit
